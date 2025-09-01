@@ -1,4 +1,4 @@
 # github-demo
 This is my first git repository.
 <br>
-Author - Sunita Arora.
+Author - Sunita (Birla Institue Of Apllied Sciences).
